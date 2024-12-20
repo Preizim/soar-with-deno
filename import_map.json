@@ -1,0 +1,8 @@
+{
+    "imports": {
+      "@hono/hono": "https://deno.land/x/hono/mod.ts",
+      "@hono/hono/http-exception": "https://deno.land/x/hono/http-exception.ts"
+    }
+  }
+
+ 
